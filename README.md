@@ -1,0 +1,2 @@
+# OCM
+Online College Magazine
