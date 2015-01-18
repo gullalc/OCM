@@ -1,0 +1,34 @@
+#next
+{
+	float:left;
+}
+#prev
+{
+	float:right;
+}
+#cnt
+{
+	display:inherit;
+	width:1200px;
+}
+#sd
+{
+width:12000;
+position:relative;
+height:400;
+
+
+}
+#ab
+{
+	float:inherit;
+overflow:hidden;
+width:1024px;
+border:1px solid black;
+}
+#sd img
+{
+padding:6px;
+height:400px;
+width:400px;
+}

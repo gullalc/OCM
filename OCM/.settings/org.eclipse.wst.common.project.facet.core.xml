@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+	<runtime name="IBM WASCE v2.1" />
+	<fixed facet="jst.java" />
+	<fixed facet="jst.web" />
+	<installed facet="jst.java" version="6.0" />
+	<installed facet="jst.web" version="2.5" />
+	<installed facet="com.ibm.wasce.facet" version="1.2" />
+</faceted-project>

@@ -1,0 +1,43 @@
+/* Registration Form */
+#register {
+	width: 700px;
+}
+
+.col1 {
+	width: 200px;
+}
+
+.col2 input {
+	width: 250px;
+}
+
+.col2 textarea {
+	width: 250px;
+	resize: none;
+	font-size: 14px;
+}
+
+#but {
+	text-align: center;
+}
+
+#regtab span {
+	color: red;
+	font-size: 10px;
+}
+
+.f {
+	border: 1px solid red;
+}
+
+.col3 {
+	width: 200px;
+}
+
+table,th,td {
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+}

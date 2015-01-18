@@ -1,0 +1,143 @@
+/* Registration Form */
+#register {
+	
+	width: 600px;
+}
+
+.col1 {
+	width: 200px;
+}
+
+.col2 input {
+	width: 250px;
+}
+
+.col2 textarea {
+	width: 250px;
+	resize: none;
+	font-size: 14px;
+}
+
+#pass_char {
+	display: none;
+	font-size: 10px;
+}
+
+#pass_char .col2 {
+	background-color: #D3D3D3;
+}
+
+#but1 {
+	text-align: center;
+}
+
+span {
+	color: #0099FF;
+	font-size: 10px;
+}
+
+.f {
+	border: 1px solid red;
+}
+
+.g {
+	border: 1px solid black;
+}
+
+.col3 {
+	width: 200px;
+}
+
+/* Information Form */
+#information {
+	width: 900px;
+}
+
+#occ {
+	width: 150px;
+}
+
+#but2 {
+	text-align: center;
+}
+
+#Exp {
+	display: none;
+}
+
+#infotab .col1,.col3,.col4 {
+	width: 200px;
+}
+
+#infotab .col2 {
+	width: 250px;
+}
+
+/* Post Article Form */
+#article {
+	width: 750px;
+}
+
+#categ {
+	width: 150px;
+}
+
+#addc {
+	width: 150px;
+}
+
+#but3 {
+	text-align: center;
+}
+
+#txtlen {
+	width: 40px;
+}
+
+/* Post Photo Form */
+#postphoto {
+	width: 600px;
+}
+
+#but4 {
+	text-align: center;
+}
+
+/* Update Status Form */
+#upstatus {
+	width: 600px;
+}
+
+#but5 {
+	text-align: center;
+}
+
+/* Update Display pic Form */
+#updatepic {
+	width: 600px;
+}
+
+#but6 {
+	text-align: center;
+}
+
+/* Send Message Form */
+#sendmsg {
+	width: 600px;
+}
+
+#but7 {
+	text-align: center;
+}
+
+#msglen {
+	width: 30px
+}
+
+#append text {
+	width: 50px;
+}
+#formsubmit
+{
+	display:none;
+}

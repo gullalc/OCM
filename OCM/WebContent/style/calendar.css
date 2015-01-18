@@ -1,0 +1,30 @@
+#cal td {
+	font-size: 10px;
+}
+
+#cal button {
+	font-size: 10px;
+	height: 15px;
+	width: 20px;
+	background: transparent;
+	border: none;
+	text-align: centre;
+}
+
+#cal table {
+	border-collapse: collapse;
+}
+
+#cal table,th,td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+#cal .filled {
+	background: #eee;
+}
+
+#cal {
+	text-align: center;
+	width: 165px;
+}

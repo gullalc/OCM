@@ -1,0 +1,4 @@
+#Fri Jan 06 16:05:10 IST 2012
+classpath.helper/org.eclipse.jdt.launching.JRE_CONTAINER\:\:org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType\:\:java-6-openjdk/owners=jst.java\:6.0
+classpath.helper/org.eclipse.jst.server.core.container\:\:com.ibm.wasce.runtimeClasspathProvider\:\:IBM\ WASCE\ v2.1/owners=jst.web\:2.5
+eclipse.preferences.version=1

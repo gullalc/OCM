@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+	<username>bobparker</username>
+	<usertype>Registered</usertype>
+	<image>http://localhost:8080/jasleen/Imge?img=2</image>
+	<status>A dream doesn’t become a reality through magic; it takes sweat,
+		determination and hard work</status>
+
+	<view>
+
+		<Info>
+
+
+			<name>Bob Parker</name>
+			<occupation>Student</occupation>
+			<class>D3CSE</class>
+			<batch>2009-2013</batch>
+			<date_of_birth>12/11/1991</date_of_birth>
+			<school>Doon Public School</school>
+			<graduation_college></graduation_college>
+			<post_graduation_college></post_graduation_college>
+			<hobbies></hobbies>
+			<favorite_quote />
+			<about>Hi I am fictional. I was created by 'codeknocks'</about>
+
+		</Info>
+	</view>
+	<progress>
+		<last_login>1</last_login>
+		<posts>2</posts>
+		<post_accepted>3</post_accepted>
+		<post_rejected>4</post_rejected>
+		<ep>5</ep>
+		<capture>6</capture>
+		<threads>7</threads>
+
+	</progress>
+
+</profile>
